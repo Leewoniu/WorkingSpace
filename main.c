@@ -5,4 +5,4 @@ printf("hello word\n");
 return 0;
 }
 
-void test()
+void test()；
